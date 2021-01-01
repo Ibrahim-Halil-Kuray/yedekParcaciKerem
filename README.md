@@ -1,0 +1,2 @@
+# yedekParcaciKerem
+fonksiyonlar
